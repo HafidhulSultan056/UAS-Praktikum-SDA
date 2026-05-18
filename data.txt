@@ -1,0 +1,8 @@
+Ayam Geprek,15000,30
+Nasi Gurih,12000,20
+Mie Ayam,13000,25
+Aneka Gorengan,2000,100
+Risol Mayo,3000,50
+Es Teh Manis,5000,40
+Kopi,6000,35
+Air Mineral,4000,50
