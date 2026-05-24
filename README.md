@@ -11,7 +11,7 @@ Program ini merupakan proyek Ujian Akhir Semester (UAS) untuk mata kuliah Prakti
 3. Aulia Faradina (250810701100019)
 4. Shifa Azzuhra (250810701100088)
 5. Erdian Wijaya (250810701100068)
-6. Junita Dwi Rahayu (250810701100068)
+6. Junita Dwi Rahayu (250810701100076)
 
 ## Program analisis tren ini memuat beberapa fitur
 1. Fitur Cari Menu
