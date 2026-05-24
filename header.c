@@ -42,10 +42,6 @@ typedef struct StackNode {
 // Ubah variabel global topStack di kodingan gabungan jadi seperti ini:
 StackNode* topStackData = NULL; 
 
-// ==========================================
-// KODE BAGIAN ERDIAN (LINKED LIST & STACK UNDO)
-// ==========================================
-
 // 1. Simpan Riwayat (Linked List)
 // Fungsi ini dipanggil sama Ejott (Reza) SETELAH dia berhasil nge-Dequeue antrean
 Node* simpanRiwayat(char* nama_pembeli, char* item, float total, char* hari) {
@@ -53,7 +49,7 @@ Node* simpanRiwayat(char* nama_pembeli, char* item, float total, char* hari) {
     Node* newNode = (Node*)malloc(sizeof(Node));
     strcpy(newNode->nama_pembeli, nama_pembeli);
     strcpy(newNode->item, item);
-    newNode->total = total;
+    newNode->total_harga = total;
     strcpy(newNode->hari, hari);
     newNode->next = NULL;
 
