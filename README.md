@@ -1,4 +1,4 @@
-#SISTEM ANALISIS TREN PENJUALAN KANTIN
+# SISTEM ANALISIS TREN PENJUALAN KANTIN
 
 Aplikasi berbasis **CLI (Command Line Interface)** Menggunakan bahasa pemrograman C. Sistem ini mengintegrasikan berbagai konsep struktur data seperti *Hash Table*, *Linked List*, *Stack*, dan beberapa algortima *Sorting* dan *Searching* untuk menangani antrean pembeli, pencatatan transaksi, manajemen inventaris, dan fitur pembatalan transaksi (*Undo*).
 
