@@ -6,12 +6,12 @@ Program ini merupakan proyek Ujian Akhir Semester (UAS) untuk mata kuliah Prakti
 
 ## Anggota Kelompok
 
-Muhammad Hafidhul Sultan (250810701100056)
-Reza Nurhakim (250810701100054)
-Aulia Faradina (250810701100019)
-Shifa Azzuhra (250810701100088)
-Erdian Wijaya (250810701100068)
-Junita Dwi Rahayu (250810701100068)
+1. Muhammad Hafidhul Sultan (250810701100056)
+2. Reza Nurhakim (250810701100054)
+3. Aulia Faradina (250810701100019)
+4. Shifa Azzuhra (250810701100088)
+5. Erdian Wijaya (250810701100068)
+6. Junita Dwi Rahayu (250810701100068)
 
 ## Program analisis tren ini memuat beberapa fitur
 1. Fitur Cari Menu
