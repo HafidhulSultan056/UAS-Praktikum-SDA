@@ -1,16 +1,19 @@
-# SISTEM ANALISIS TREN PENJUALAN KANTIN
+# Analisis Tren Penjualan Jajanan Kantin Fakultas MIPA USK untuk Rekomendasi Menu Harian
 
-Aplikasi berbasis **CLI (Command Line Interface)** Menggunakan bahasa pemrograman C. Sistem ini mengintegrasikan berbagai konsep struktur data seperti *Hash Table*, *Linked List*, *Stack*, dan beberapa algortima *Sorting* dan *Searching* untuk menangani antrean pembeli, pencatatan transaksi, manajemen inventaris, dan fitur pembatalan transaksi (*Undo*).
+Sebuah program berbasis CLI (Command Line Interface) yang dikembangkan menggunakan bahasa C untuk mengelola transaksi kasir, menganalisis laporan pendapatan, dan memberikan rekomendasi sistem pendukung keputusan (DSS) stok makanan harian di lingkungan Kantin Fakultas MIPA Universitas Syiah Kuala (USK).
 
-## Arsitektur Struktur Data
+Program ini merupakan proyek Ujian Akhir Semester (UAS) untuk mata kuliah Praktikum Struktur Data dan Algoritma.
 
-Untuk memastikan efisiensi memori dan kecepatan pemrosesan data, program ini mengombinasikan beberapa struktur data:
-* **Hash Table (Chaining):** Manajemen penyimpanan primer data menu makanan.
-* **Queue (Linked List Based):** Struktur dinamis untuk mengelola antrean pelanggan yang masuk.
-* **Linked List:** Penyimpanan sekunder untuk merekam riwayat transaksi yang sukses secara kronologis.
-* **Stack (Pointer-Based):** Penyimpanan referensi memori (*LIFO*) khusus untuk memfasilitasi mekanisme pembatalan (*Undo*).
+## Anggota Kelompok
 
-Program analisis tren ini memuat beberapa fitur seperti:
+Muhammad Hafidhul Sultan (250810701100056)
+Reza Nurhakim (250810701100054)
+Aulia Faradina (250810701100019)
+Shifa Azzuhra (250810701100088)
+Erdian Wijaya (250810701100068)
+Junita Dwi Rahayu (250810701100068)
+
+## Program analisis tren ini memuat beberapa fitur
 1. Fitur Cari Menu
 2. Fitur Tambah Pesanan (Enqueue)
 3. Fitur Proses Antrean (Dequeue)
