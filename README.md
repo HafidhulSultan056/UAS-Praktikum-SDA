@@ -16,32 +16,3 @@ Program analisis tren ini memuat beberapa fitur seperti:
 3. Fitur Proses Antrean (Dequeue)
 4. Fitur Batal Pesanan
 5. Fitur Laporan Keuangan
-
-##  Panduan Memulai & Menjalankan Program
-
-### Prasyarat Sistem
-Pastikan perangkat kamu telah terinstal compiler C (seperti **GCC** / MinGW untuk Windows, atau Clang untuk macOS/Linux).
-
-### Langkah Instalasi
-1. **Clone Repositori:**
-   ```bash
-   git clone [https://github.com/username-kamu/nama-repositori-kantin.git](https://github.com/username-kamu/nama-repositori-kantin.git)
-   cd nama-repositori-kantin
-2. **Persiapan Database File:**
-Pastikan file database eksternal bernama data.txt berada di dalam direktori/folder yang sama dengan file kode sumber program (main.c).
-
-3. **Kompilasi Program (Kompile):**
-Buka terminal atau command prompt, lalu jalankan perintah:
-
-Bash
-gcc main.c -o program_kantin
-4. **Eksekusi Program:**
-
-Windows:
-
-DOS
-program_kantin.exe
-Linux / macOS:
-
-Bash
-./program_kantin
